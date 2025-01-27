@@ -1,4 +1,4 @@
-# Open Algeria
+# Great Algerian open source projects
 
 A curated list of projects built by Algerian developers.
 
