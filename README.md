@@ -2,6 +2,14 @@
 
 A curated list of projects built by Algerian developers.
 
+## Contents
+
+- [Open Data](#open-data)
+- [Applications](#applications)
+- [Libraries and Frameworks](#libraries-and-frameworks)
+- [Other](#other)
+
+  
 ## Open Data
 - [Algerian Administrative Division](https://github.com/mohsenuss91/AlgerianAdministrativeDivision) - Wilayas - Daïras - baladiyahs
 - [Algerial Logos](https://github.com/mohsenuss91/AlgerianLogos) - Some Algerian official vectorized (.SVG) Logos
